@@ -1,26 +1,26 @@
 {
-    "version": "0.2.0-beta8",
+    "version": "0.2.0-beta9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta8/pdp-cli-releases-test_0.2.0-beta8_windows_386.zip",
+            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta9/pdp-cli-releases-test_0.2.0-beta9_windows_386.zip",
             "bin": [
                 "discovery.exe"
             ],
-            "hash": "e57a994532aeefc9f99b95548b9f0f30ae14cc70b14c7fb705c1baf61fc80563"
+            "hash": "b4ca5103fc523b8a9795a1639d90b62dbdf535c3f2c5ab5c7ed5acecbdb9a535"
         },
         "64bit": {
-            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta8/pdp-cli-releases-test_0.2.0-beta8_windows_amd64.zip",
+            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta9/pdp-cli-releases-test_0.2.0-beta9_windows_amd64.zip",
             "bin": [
                 "discovery.exe"
             ],
-            "hash": "f55733292e5a0c4ae4ff3f1b2cba6fa60a3ace811abbb449ce2d28baf4665e55"
+            "hash": "521618c49cc82ccb3bbdb1a1cac8ae98848352d1aaea45b7bd5eb0b20caec43c"
         },
         "arm64": {
-            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta8/pdp-cli-releases-test_0.2.0-beta8_windows_arm64.zip",
+            "url": "https://github.com/diegogranados-pi/pdp-cli-releases-test/releases/download/v0.2.0-beta9/pdp-cli-releases-test_0.2.0-beta9_windows_arm64.zip",
             "bin": [
                 "discovery.exe"
             ],
-            "hash": "39717fa15c08bef8a24ace5440a923aa97bc90e470613a7ad4fa2ba79f338f7f"
+            "hash": "05ba820ec467e3ba796ca2140afc8b0b0e5fc68e69373ae9ec1a20b1f195807a"
         }
     },
     "homepage": "https://github.com/diego-granados/pdp-cli-releases-test",
